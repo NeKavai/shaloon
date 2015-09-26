@@ -1,0 +1,4 @@
+templates/*
+env
+*.pyc
+*.swp
